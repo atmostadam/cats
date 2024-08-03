@@ -1,0 +1,29 @@
+Given example json request
+{
+	"microchipNumber": "ffff8d19-e10d-4d8a-8152-966311dca3d9",
+	"name": "Fluffy",
+	"breed": "Domestic Shorthair",
+	"type": "Calico",
+	"primaryColor": "Orange",
+	"sex": "F",
+	"age": 2,
+	"deceased": false,
+	"neutered": true,
+	"createdTimestamp": "2023-08-04T12:00:00.000Z", 
+	"updatedTimestamp": "2023-08-04T12:00:00.000Z" 
+}
+create enterprise backend application
+with java programming language
+with rest capabilities
+with libraries
+with framework
+with build configuration
+with json validations
+with database configuration
+with webclient service
+with service layer to consume all pet finder apis and http methods as defined at 'https://www.petfinder.com/developers/v2'
+with openapi documentation
+with swagger yaml
+with unit tests
+with package structure
+with the ability to run on AWS with the developer free tier
